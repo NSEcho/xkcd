@@ -1,6 +1,6 @@
 // Package xkcd provides interface to search xcde comics locally. It
 // does so by first indexing data offline locally and then search those.
-package xk
+package xkcd
 
 import (
 	"encoding/json"
